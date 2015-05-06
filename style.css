@@ -1,0 +1,22 @@
+.concept
+{
+  background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.concept-title 
+{
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: #294860;
+}
+
+.concept-description 
+{
+	font-weight: lighter;
+	margin: 6px;
+}
